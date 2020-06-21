@@ -17,6 +17,15 @@ These python scripts run ok on : <br />
 ### A. 以PC(Server), Raspberry 3(Client)為例
 #### 1. 為什麼要做這件事情?
 #### 2. 需要準備硬體材料
+* PC x 1
+* Raspberry Pi 3 x 1
+* Switch x 1
+* 網路線 x 2
+* 顯示設備(螢幕或投影機) x 2
+#####補充資料
+常見網路設備Hubs, Bridges, Switches, Routers and Gateways<br />
+(source: Ben的編程、系統學習記錄)<br />
+http://ps.hsuweni.idv.tw/?p=4451
 #### 3. 檢查PC硬體規格
 #### 4. 製作Ubuntu USB 開機安裝碟
 #### 5. 在PC上安裝 Ubuntu
