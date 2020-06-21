@@ -22,11 +22,11 @@ These python scripts run ok on : <br />
 * Switch x 1
 * 網路線 x 2
 * 顯示設備(螢幕或投影機) x 2
-<br />
+
 <b>補充資料</b><br />
-常見網路設備Hubs, Bridges, Switches, Routers and Gateways<br />
+[常見網路設備Hubs, Bridges, Switches, Routers and Gateways](http://ps.hsuweni.idv.tw/?p=4451)<br />
 (source: Ben的編程、系統學習記錄)<br />
-http://ps.hsuweni.idv.tw/?p=4451 <br />
+ <br />
 #### 3. 檢查PC硬體規格
 #### 4. 製作Ubuntu USB 開機安裝碟
 #### 5. 在PC上安裝 Ubuntu
