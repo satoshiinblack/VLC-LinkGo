@@ -10,7 +10,7 @@ These python scripts run ok on : <br />
 * PC with Ubuntu 20.04LTS
 
 ## To-do
-* 寫自動開機的script (完成 -> Run.sh)
+* 寫開機執行的script (完成 -> Run.sh)
 * 錄製教學影片 (未完成)
 
 ## Tutorials
