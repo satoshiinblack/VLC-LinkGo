@@ -26,7 +26,7 @@ These python scripts run ok on : <br />
 <b>補充資料</b><br />
 常見網路設備Hubs, Bridges, Switches, Routers and Gateways<br />
 (source: Ben的編程、系統學習記錄)<br />
-http://ps.hsuweni.idv.tw/?p=4451
+http://ps.hsuweni.idv.tw/?p=4451 <br />
 #### 3. 檢查PC硬體規格
 #### 4. 製作Ubuntu USB 開機安裝碟
 #### 5. 在PC上安裝 Ubuntu
