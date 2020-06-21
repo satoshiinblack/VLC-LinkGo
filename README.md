@@ -17,7 +17,10 @@ These python scripts run ok on : <br />
 ### A. 以PC(Server), Raspberry 3(Client)為例
 #### 1. 為什麼要做這件事情
 [![](http://img.youtube.com/vi/R8QtZ4gKFhM/0.jpg)](http://www.youtube.com/watch?v=R8QtZ4gKFhM "VLC-LinkGo_1.為什麼要做這件事情(Youtube)")<br />
-⬆ Youtube
+⬆ Youtube<br />
+<b>補充資料</b><br />
+[已經超過八年了～今天還有藝術家跟我討論這問題～](https://www.facebook.com/honki/posts/10157377229111375)<br />
+(source: 鄭鴻旗 Openlab.Taipei 創辦人)<br />
 #### 2. 需要準備硬體材料
 * PC x 1
 * Raspberry Pi 3 x 1
