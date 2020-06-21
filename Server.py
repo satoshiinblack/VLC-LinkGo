@@ -26,6 +26,8 @@ server.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)
 # indefinitely when trying to receive data.
 server.settimeout(0.2)
 
+time.sleep(10)
+
 while True:
 
     res =requests.get(serverVlcUrl,

@@ -23,6 +23,8 @@ clientVlcUrl = 'http://127.0.0.1:8080/requests/status.xml'
 client.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)
 client.bind(("", 37020))
 
+time.sleep(10)
+
 while True:
 
     #get server vlc time
