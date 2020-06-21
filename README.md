@@ -16,6 +16,8 @@ These python scripts run ok on : <br />
 ## Tutorials
 ### A. 以PC(Server), Raspberry 3(Client)為例
 #### 1. 為什麼要做這件事情
+[![](http://img.youtube.com/vi/R8QtZ4gKFhM/0.jpg)](http://www.youtube.com/watch?v=R8QtZ4gKFhM "VLC-LinkGo_1.為什麼要做這件事情(Youtube)")<br />
+(Youtube)
 #### 2. 需要準備硬體材料
 * PC x 1
 * Raspberry Pi 3 x 1
@@ -28,7 +30,7 @@ These python scripts run ok on : <br />
 (source: Ben的編程、系統學習記錄)<br />
  <br />
 #### 3. 檢查PC硬體規格
-[![](http://img.youtube.com/vi/of4azoeV2nI/0.jpg)](http://www.youtube.com/watch?v=of4azoeV2nI "VLC-LinkGo_3.檢查PC硬體規格(Youtube)")
+[![](http://img.youtube.com/vi/of4azoeV2nI/0.jpg)](http://www.youtube.com/watch?v=of4azoeV2nI "VLC-LinkGo_3.檢查PC硬體規格(Youtube)") <br />
 (Youtube)
 #### 4. 製作Ubuntu USB 開機安裝碟
 #### 5. 在PC上安裝 Ubuntu
