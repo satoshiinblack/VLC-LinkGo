@@ -29,6 +29,7 @@ These python scripts run ok on : <br />
  <br />
 #### 3. 檢查PC硬體規格
 [![](http://img.youtube.com/vi/of4azoeV2nI/0.jpg)](http://www.youtube.com/watch?v=of4azoeV2nI "VLC-LinkGo_3.檢查PC硬體規格(Youtube)")
+(Youtube)
 #### 4. 製作Ubuntu USB 開機安裝碟
 #### 5. 在PC上安裝 Ubuntu
 #### 6. Ubuntu 上的設定
