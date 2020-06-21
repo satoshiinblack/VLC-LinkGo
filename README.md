@@ -22,7 +22,8 @@ These python scripts run ok on : <br />
 * Switch x 1
 * 網路線 x 2
 * 顯示設備(螢幕或投影機) x 2
-#####補充資料
+<br />
+<b>補充資料</b>
 常見網路設備Hubs, Bridges, Switches, Routers and Gateways<br />
 (source: Ben的編程、系統學習記錄)<br />
 http://ps.hsuweni.idv.tw/?p=4451
