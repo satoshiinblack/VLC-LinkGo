@@ -15,7 +15,7 @@ These python scripts run ok on : <br />
 
 ## Tutorials
 ### A. 以PC(Server), Raspberry 3(Client)為例
-#### 1. 為什麼要做這件事情?
+#### 1. 為什麼要做這件事情
 #### 2. 需要準備硬體材料
 * PC x 1
 * Raspberry Pi 3 x 1
