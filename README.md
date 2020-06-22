@@ -41,7 +41,7 @@ These python scripts run ok on : <br />
 #### 5. 在PC上安裝 Ubuntu
 #### 6. Ubuntu 上的設定
 #### 7. 燒入Raspbian系統於Micro SD卡
-#### 8. Raspbian上的設定
+#### 8. Raspberry Pi(Raspbian)上的設定
 #### 9. 成果展現
 
 
