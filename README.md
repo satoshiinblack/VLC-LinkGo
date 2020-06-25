@@ -14,12 +14,12 @@ These python scripts run ok on : <br />
 * 撰寫教學 (未完成)
 
 ## Tutorials
-### A. 以PC(Server), Raspberry 3(Client)為例
-#### 1. 為什麼要做這件事情
+### 為什麼要做這件事情
 我在網路上看到這篇貼文「[已經超過八年了～今天還有藝術家跟我討論這問題～](https://www.facebook.com/honki/posts/10157377229111375)」，我覺得有點不敢置信...。<br />
 所以動手寫了python+vlc 影片同步的程式。<br />
 
-#### 2. 需要準備硬體材料
+### 以PC(Server), Raspberry 3(Client)為例
+#### 1. 需要準備硬體材料
 * PC x 1
 * Raspberry Pi 3 x 1
 * Switch x 1
@@ -30,13 +30,13 @@ These python scripts run ok on : <br />
 [常見網路設備Hubs, Bridges, Switches, Routers and Gateways](http://ps.hsuweni.idv.tw/?p=4451)<br />
 (source: Ben的編程、系統學習記錄)<br />
  <br />
-#### 3. 檢查PC硬體規格
-#### 4. 製作Ubuntu USB 開機安裝碟
-#### 5. 在PC上安裝 Ubuntu 作業系統
-#### 6. Ubuntu 上的設定
-#### 7. 在Raspberry Pi 安裝Raspbian作業系統
-#### 8. Raspbian上的設定
-#### 9. 成果展現
+#### 2. 檢查PC硬體規格
+#### 3. 製作Ubuntu USB 開機安裝碟
+#### 4. 在PC上安裝 Ubuntu 作業系統
+#### 5. Ubuntu 上的設定
+#### 6. 在Raspberry Pi 安裝Raspbian作業系統
+#### 7. Raspbian上的設定
+#### 8. 成果展現
 
 
 ## About
