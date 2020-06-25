@@ -33,12 +33,13 @@ These python scripts run ok on : <br />
 (source: Ben的編程、系統學習記錄)<br />
  <br />
 #### 2. 檢查PC硬體規格
-#### 3. 製作Ubuntu USB 開機安裝碟
-#### 4. 在PC上安裝 Ubuntu 作業系統
-#### 5. Ubuntu 上的設定
-#### 6. 在Raspberry Pi 安裝Raspbian作業系統
-#### 7. Raspbian上的設定
-#### 8. 成果展現
+#### 3. 在PC上安裝 Ubuntu 作業系統
+[Ubuntu 官方安裝教學](https://ubuntu.com/tutorials/tutorial-install-ubuntu-desktop#1-overview)
+#### 4. Ubuntu 上的設定
+#### 5. 在Raspberry Pi 安裝Raspbian作業系統
+[Raspberry Pi 官方安裝教學](https://www.raspberrypi.org/documentation/installation/installing-images/)
+#### 6. Raspbian上的設定
+#### 7. 成果展現
 
 
 ## About
