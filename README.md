@@ -33,8 +33,6 @@ These python scripts run ok on : <br />
 #### 3. 檢查PC硬體規格
 
 #### 4. 製作Ubuntu USB 開機安裝碟
-[![](http://img.youtube.com/vi/o1RfllJbyxY/0.jpg)](http://www.youtube.com/watch?v=o1RfllJbyxY "VLC-LinkGo_4.製作Ubuntu USB 開機安裝碟(Youtube)") <br />
-⬆ Youtube
 #### 5. 在PC上安裝 Ubuntu
 #### 6. Ubuntu 上的設定
 #### 7. 燒入Raspbian系統於Micro SD卡
