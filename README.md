@@ -15,6 +15,8 @@ These python scripts run ok on : <br />
 
 ## Tutorials
 ### 為什麼要做這件事情
+![已經超過八年了～今天還有藝術家跟我討論這問題～](/Snapshots/Snapshot_theReasonOfDoingThis.png)<br />
+<br />
 我在網路上看到這篇貼文「[已經超過八年了～今天還有藝術家跟我討論這問題～](https://www.facebook.com/honki/posts/10157377229111375)」，我覺得有點不敢置信...。<br />
 所以動手寫了python+vlc 影片同步的程式。<br />
 
