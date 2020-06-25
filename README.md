@@ -11,7 +11,7 @@ These python scripts run ok on : <br />
 
 ## To-do
 * 寫開機執行的script (完成 -> Run.sh)
-* 錄製教學影片 (未完成)
+* 撰寫教學 (未完成)
 
 ## Tutorials
 ### A. 以PC(Server), Raspberry 3(Client)為例
