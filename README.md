@@ -1,5 +1,4 @@
-8# VLC-LinkGo
-
+# VLC-LinkGo
 ## Requirements
 VLC player 3.0 above (please enable the web interface https://wiki.videolan.org/Documentation:Modules/http_intf/)<br />
 Python 3
