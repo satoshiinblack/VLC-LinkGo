@@ -30,6 +30,6 @@ These python scripts test ok(via Wi-fi) on : <br />
 ### Mac OS
 
 ## Demo
-
+[![](http://img.youtube.com/vi/ukbC8KkdXmo/0.jpg)](http://www.youtube.com/watch?v=ukbC8KkdXmo "")
 ## About
 因為我在林口寫多頻道影片同步的程式，透過VLC實現，故此專案稱之VLC-LinkGo。
