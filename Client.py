@@ -49,3 +49,4 @@ while True:
             requests.get(clientVlcUrl + '?command=rate&val=0.98',
                                    #Lua HTTP Password
                          auth=('', '1234'))
+    client.close()
