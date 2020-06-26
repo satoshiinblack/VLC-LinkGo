@@ -9,17 +9,15 @@ import socket
 import time
 import struct
 
-client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM, socket.IPPROTO_UDP)  # UDP
 clientVlcUrl = 'http://127.0.0.1:8080/requests/status.xml'
-
-client.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)
-client.bind(("", 37020))
-
-time.sleep(10)
+#time.sleep(15)
 
 while True:
 
     #get server vlc time
+    client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM, socket.IPPROTO_UDP)  # UDP
+    client.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)
+    client.bind(("", 37020))
     data, addr = client.recvfrom(1024)
     serverPos = struct.unpack_from("fi", data)[0]
     serverTime = struct.unpack_from("fi", data)[1]

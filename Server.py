@@ -10,12 +10,10 @@ import time
 import struct
 
 server = socket.socket(socket.AF_INET, socket.SOCK_DGRAM, socket.IPPROTO_UDP)
-serverVlcUrl = 'http://127.0.0.1:8080/requests/status.xml'
-
 server.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)
 server.settimeout(0.2)
-
-time.sleep(10)
+serverVlcUrl = 'http://127.0.0.1:8080/requests/status.xml'
+time.sleep(15)
 
 while True:
 
@@ -33,4 +31,4 @@ while True:
     server.sendto( struct.pack("fi", serverPos, serverTime)  , ("<broadcast>", 37020))
     print("pos: " + str(serverPos) + " | time: " + str(serverTime))
 
-    time.sleep(0.1)
+    time.sleep(0.2)
