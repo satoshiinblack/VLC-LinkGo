@@ -5,7 +5,7 @@ VLC player 3.0 above (please enable the web interface https://wiki.videolan.org/
 Python 3
 <br />
 <br />
-These python scripts test ok on : <br />
+These python scripts test ok (via Wi-fi)on : <br />
 * Raspberry Pi 3 Model B 1GB Ram with Raspberry Pi OS (Release date: 2020-05-27) (Full HD Video,30fps is fine)
 * Raspberry Pi Model B 512 MB RAM with Raspberry Pi OS (Release date: 2020-05-27) (Full HD Video,24fps is fine)
 * PC with Ubuntu 20.04LTS/Ubuntu 18.04LTS/ Windows 10
