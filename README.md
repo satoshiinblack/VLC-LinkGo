@@ -12,7 +12,7 @@ These python scripts test ok on : <br />
 
 
 ## To-do
-* 寫開機執行的script (完成 -> Run.sh)
+* 寫Linux開機執行的script (完成 -> Run.sh)
 * 撰寫教學 (未完成)
 
 ## Tutorials
