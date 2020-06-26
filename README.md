@@ -2,7 +2,7 @@
 ## What is a multi-channel video installation
 ### Definition
 ![What is a multi-channel video installation](/Snapshots/what_is_a_multi-channel_video_installation.png)<br />
-[source](https://www.eai.org/resourceguide/exhibition/installation/basicquestions.html#QUESTION2) :Electronic Arts Intermix <br />
+Source: [Electronic Arts Intermix](https://www.eai.org/resourceguide/exhibition/installation/basicquestions.html#QUESTION2)<br />
 <br />
 ## Requirements
 VLC player 3.0 above (please enable the web interface https://wiki.videolan.org/Documentation:Modules/http_intf/)<br />
