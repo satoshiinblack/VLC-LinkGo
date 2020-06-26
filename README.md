@@ -27,6 +27,7 @@ These python scripts test ok(via Wi-fi) on : <br />
 * 撰寫教學 (未完成)
 
 ## Tutorials
+### Raspberry Pi OS
 ### Windows 10
 ### Ubuntu 20.04LTS/Ubuntu 18.04LTS
 ### Mac OS
