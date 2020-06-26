@@ -1,6 +1,11 @@
 # VLC-LinkGo
+## Demo
+[![](http://img.youtube.com/vi/ukbC8KkdXmo/0.jpg)](http://www.youtube.com/watch?v=ukbC8KkdXmo "")
 ## What is a multi-channel video installation
-
+### Definition
+![What is a multi-channel video installation](/Snapshots/what_is_a_multi-channel_video_installation.png)<br />
+Source: [Electronic Arts Intermix](https://www.eai.org/resourceguide/exhibition/installation/basicquestions.html#QUESTION2)<br />
+<br />
 ## Requirements
 VLC player 3.0 above (please enable the web interface https://wiki.videolan.org/Documentation:Modules/http_intf/)<br />
 Python 3
@@ -22,6 +27,7 @@ These python scripts test ok(via Wi-fi) on : <br />
 * 撰寫教學 (未完成)
 
 ## Tutorials
+### Raspberry Pi OS
 ### Windows 10
 ### Ubuntu 20.04LTS/Ubuntu 18.04LTS
 ### Mac OS
