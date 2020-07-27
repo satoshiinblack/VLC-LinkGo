@@ -29,13 +29,17 @@ These python scripts test ok(via Wi-fi) on : <br />
 <code>
 python3 /home/user/VLC-LinkGo/Server.py
 </code>
+
 <code>
 vlc /home/user/VLC-LinkGo/movie.mp4 -f --loop --http-password 1234
 </code>
+
 ### Slave
+
 <code>
 python3 /home/user/VLC-LinkGo/Client.py
 </code>
+
 <code>
 vlc /home/user/VLC-LinkGo/movie.mp4 -f --loop --http-password 1234
 </code>
