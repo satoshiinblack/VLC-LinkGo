@@ -1,6 +1,6 @@
 # VLC-LinkGo
-## Demo
-[![](http://img.youtube.com/vi/ukbC8KkdXmo/0.jpg)](http://www.youtube.com/watch?v=ukbC8KkdXmo "")
+## Demo Video
+[![](http://img.youtube.com/vi/lGw4BSwcrNU/0.jpg)](http://www.youtube.com/watch?v=lGw4BSwcrNU "")
 ## What is a multi-channel video installation
 ### Definition
 ![What is a multi-channel video installation](/Snapshots/what_is_a_multi-channel_video_installation.png)<br />
@@ -23,16 +23,22 @@ These python scripts test ok(via Wi-fi) on : <br />
 所以動手寫了python+vlc 影片同步的程式。<br />
 
 ## To-do
-* 寫Linux開機執行的script (完成 -> Run.sh)
-* 撰寫教學 (未完成)
 
 ## Tutorials
-### Raspberry Pi OS / Ubuntu / Mac OS
+### Master
 <code>
-dfdfdsf
+python3 /home/user/VLC-LinkGo/Server.py
 </code>
-
-### Windows 10
+<code>
+vlc /home/user/VLC-LinkGo/movie.mp4 -f --loop --http-password 1234
+</code>
+### Slave
+<code>
+python3 /home/user/VLC-LinkGo/Client.py
+</code>
+<code>
+vlc /home/user/VLC-LinkGo/movie.mp4 -f --loop --http-password 1234
+</code>
 
 ## About
 因為我在林口寫多頻道影片同步的程式，透過VLC實現，故此專案稱之VLC-LinkGo。
