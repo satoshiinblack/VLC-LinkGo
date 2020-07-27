@@ -27,10 +27,12 @@ These python scripts test ok(via Wi-fi) on : <br />
 * 撰寫教學 (未完成)
 
 ## Tutorials
-### Raspberry Pi OS
+### Raspberry Pi OS / Ubuntu / Mac OS
+<code>
+dfdfdsf
+</code>
+
 ### Windows 10
-### Ubuntu 20.04LTS/Ubuntu 18.04LTS
-### Mac OS
 
 ## About
 因為我在林口寫多頻道影片同步的程式，透過VLC實現，故此專案稱之VLC-LinkGo。
