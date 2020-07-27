@@ -1,7 +1,7 @@
 # UDP broadcast example: https://github.com/ninedraft/python-udp
 
 # Run VLC player from command-line
-# vlc bunny.mp4 -f --loop --http-password 1234
+# vlc movie.mp4 -f --loop --http-password 1234
 
 import xml.etree.ElementTree as ET
 import requests
