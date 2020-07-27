@@ -1,6 +1,7 @@
 # VLC-LinkGo
 ## Demo Video
-[![](http://img.youtube.com/vi/lGw4BSwcrNU/0.jpg)](http://www.youtube.com/watch?v=lGw4BSwcrNU "")
+[![](http://img.youtube.com/vi/lGw4BSwcrNU/0.jpg)](http://www.youtube.com/watch?v=lGw4BSwcrNU "")<br />
+https://www.youtube.com/watch?v=lGw4BSwcrNU
 ## What is a multi-channel video installation
 ### Definition
 ![What is a multi-channel video installation](/Snapshots/what_is_a_multi-channel_video_installation.png)<br />
@@ -26,8 +27,8 @@ These python scripts test ok(via Wi-fi) on : <br />
 
 
 ## Tutorial
-運作原理是，先用VLC撥放需要同步的影片。
-再用python script去偵測同一個網段裡主畫面(Master)的時間，並即時調整本機影片(Slave)的時間。
+運作原理是，先用VLC撥放需要同步的影片。<br />
+再用python script去偵測同一個網段裡主畫面(Master)的時間，並即時調整本機影片(Slave)的時間。<br />
 
 
 ### Master
