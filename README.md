@@ -29,7 +29,7 @@ These python scripts test ok(via Wi-fi) on : <br />
 
 ## Tutorial
 運作原理是，先用VLC撥放需要同步的影片。<br />
-再用python script去偵測同一個網段裡主畫面(Master)的時間，並即時調整本機影片(Slave)的時間。<br />
+再用python script去偵測(UDP 廣播)同一個網段裡主畫面(Master)的時間，並即時調(透過Http介面)整本機影片(Slave)的時間。<br />
 
 
 ### Master
