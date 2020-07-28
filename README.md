@@ -16,6 +16,7 @@ These python scripts test ok(via Wi-fi) on : <br />
 * Raspberry Pi 3 Model B 1GB Ram with Raspberry Pi OS (Release date: 2020-05-27) (Full HD Video,30fps is fine)
 * Raspberry Pi Model B 512 MB RAM with Raspberry Pi OS (Release date: 2020-05-27) (Full HD Video,24fps is fine)
 * PC with Ubuntu 20.04LTS/Ubuntu 18.04LTS/ Windows 10
+* MacbookPro with Mojave 10.04
 
 ## Motivation
 ![已經超過八年了～今天還有藝術家跟我討論這問題～](/Snapshots/Snapshot_theReasonOfDoingThis.png)<br />
@@ -40,8 +41,6 @@ vlc /home/user/VLC-LinkGo/movie.mp4 -f --loop --http-password 1234
 python3 /home/user/VLC-LinkGo/Server.py
 </code>
 
-
-
 ### Slave
 <code>
 vlc /home/user/VLC-LinkGo/movie.mp4 -f --loop --http-password 1234
@@ -50,7 +49,6 @@ vlc /home/user/VLC-LinkGo/movie.mp4 -f --loop --http-password 1234
 <code>
 python3 /home/user/VLC-LinkGo/Client.py
 </code>
-
 
 
 ## About
