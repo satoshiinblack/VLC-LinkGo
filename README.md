@@ -34,11 +34,18 @@ These python scripts test ok(via Wi-fi) on : <br />
 
 ### Master
 <code>
-vlc /home/user/VLC-LinkGo/movie.mp4 -f --loop --http-password 1234
+vlc /home/user/VLC-LinkGo/movie.mp4 -f --loop --http-password 1234 <br>
+</code>
+
+<code>
 python3 /home/user/VLC-LinkGo/Server.py
 </code>
 
 ### Slave
+<code>
+vlc /home/user/VLC-LinkGo/movie.mp4 -f --loop --http-password 1234
+</code>
+
 <code>
 vlc /home/user/VLC-LinkGo/movie.mp4 -f --loop --http-password 1234
 python3 /home/user/VLC-LinkGo/Client.py
